@@ -1,5 +1,5 @@
 *.txt
-log*
+*.log*
 *.log[0-9]
 feenixdv/photo/
 !feenixdv/photo/*.jpg
